@@ -1,0 +1,99 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+</head>
+<body>
+    <h1>MENU</h1>
+    
+</body>
+</html>
+<table border="1">
+    <h2>VEG</h2>
+    <tr>
+        <th>Name of Dish</th>
+        <th>Price</th>
+        <th>Included Special Item</th>
+    </tr>
+    <tr>
+        <th>Channa Masala</th>
+        <td>70</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Paneer Butter Masala</th>
+        <td>100</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Channa Polau</th>
+        <td>100</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Kadhai Paneer</th>
+        <td>110</td>
+        <td>Nun Roti(1p)</td>
+    </tr>
+    <tr>
+        <th>Oil Free Fried Rice</th>
+        <td>130</td>
+        <td>Paneer curry</td>
+    </tr>
+    <tr>
+        <th>Channa Masala</th>
+        <td>90</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Sahi Paneer</th>
+        <td>80</td>
+        <td>-</td>
+    </tr>
+</table>
+<br><br>
+<table border="1">
+    <h2>NON-VEG</h2>
+    <tr>
+        <th>Name of Dish</th>
+        <th>Price</th>
+        <th>Included Special Item</th>
+    </tr>
+    <tr>
+        <th>Chicken Curry</th>
+        <td>90</td>
+        <td>Rumali Roti(1p)</td>
+    </tr>
+    <tr>
+        <th>Lemon Pepper Chicken</th>
+        <td>85</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Patiala Chicken Masala</th>
+        <td>100</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Chicken Kebab</th>
+        <td>70</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Chicken Keema</th>
+        <td>60</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th>Butter Chicken</th>
+        <td>120</td>
+        <td>Nun Roti(1p)</td>
+    </tr>
+    <tr>
+        <th>Chicken Kosha</th>
+        <td>50</td>
+        <td>-</td>
+    </tr>
+</table>
