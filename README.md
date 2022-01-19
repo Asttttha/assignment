@@ -1,2 +1,2 @@
-# assignment1_demo
+# assignments
 Assignment give by letsupgrade
